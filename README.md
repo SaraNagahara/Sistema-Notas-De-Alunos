@@ -1,0 +1,1 @@
+Olá, esse é um projeto sobre cálculos de notas de alunos na faculdade. Onde usei tudo oque sabia até o momento sobre arrays e foreach aprendidos na faculdade para realizar esse sistema em PHP.
